@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
-# OPSEC Installer (PRANK)
-# Does nothing real: no downloads, no file changes, no network access.
-# It only prints fake progress and a joke ending.
+
 
 # --- colors ---
 GREEN='\033[0;32m'; YELLOW='\033[1;33m'; RED='\033[0;31m'
